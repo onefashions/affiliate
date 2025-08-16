@@ -1,13 +1,13 @@
 {
-  "name": "Suha",
-  "short_name": "Suha",
-  "start_url": "https://designing-world.com/suha-3.3.0/intro.html",
+  "name": "One Fashion",
+  "short_name": "One Fashion",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#625AFA",
   "theme_color": "#625AFA",
   "categories": ["shop", "ecommerce", "fashion"],
   "orientation": "portrait",
-  "description": "Suha - Multipurpose E-commerce Mobile HTML Template",
+  "description": "One Fashion - Multipurpose E-commerce Mobile HTML Template",
   "icons": [{
       "src": "img/icons/icon-72x72.png",
       "type": "image/png",
